@@ -14,8 +14,8 @@
         <div class="passo ativo" id="passo-0">
             <img src="img/cenario-passo0.png" alt="">
             <p>estavamos querendo joga bola em algum campo de futebol mas ele estava desativado até então , ai fomos falar com o proprietário pra ver com ele se reativaria novamente e ele fez isso para nós então conseguimos jogar nese campo</p>
-            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
-            <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+            <button class="btn-proximo" data-proximo="1">em curitiba</button>
+            <button class="btn-proximo" data-proximo="2"></button>
         </div>
         <div class="passo" id="passo-1">
             <p></p>
