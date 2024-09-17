@@ -18,19 +18,18 @@
             <button class="btn-proximo" data-proximo="2">Pernambuco</button>
         </div>
         <div class="passo" id="passo-1">
-            <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
-            <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
-            <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+            <p></p>
+            <button class="btn-proximo" data-proximo="3"></button>
+            <button class="btn-proximo" data-proximo="4"></button>
         </div>
         <div class="passo" id="passo-2">
             <p>Em curitiba,santa catarina e uma cidade linda. Na carta, uma quadra de futibol localizado na entrada do sitio cercado ao lado do ct do atlético paranaense.
-            <button class="btn-proximo" data-proximo="5">Investigar as igrejas antigas</button>
+            <button class="btn-proximo" data-proximo="5"></button>
             <button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button>
         </div>
         <div class="passo" id="passo-3">
-            <p>No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está
-                localizada no Amazonas.</p>
-            <button class="btn-proximo" data-proximo="7">Seguir para o Amazonas</button>
+            <p>.</p>
+            <button class="btn-proximo" data-proximo="7"></button>
         </div>
 
         <div class="passo" id="passo-4">
